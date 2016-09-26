@@ -1,0 +1,31 @@
+
+
+
+
+
+.header{
+	/*color: #ffffff;*/
+}
+
+#ourmenu{
+	text-align: center;
+}
+#box1, #box2,#box3{
+	color: black;
+	padding: 20px;
+	text-align: justify;
+	font-size: 16px;
+	margin: 1%;
+}
+#box1{
+	background-color: #964f8e;
+}
+#box2{
+	background-color: #0067a7;
+}
+#box3{
+	background-color: #e97600;
+}
+#Chicken,#Beef ,#Sushi{
+	text-align: center;
+}
