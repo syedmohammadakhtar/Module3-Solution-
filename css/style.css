@@ -1,31 +1,29 @@
 
 
-
-
-
 .header{
 	/*color: #ffffff;*/
 }
 
-#ourmenu{
+/*#ourmenu{
 	text-align: center;
-}
+}*/
 #box1, #box2,#box3{
 	color: black;
-	padding: 20px;
+	padding: 10px;
 	text-align: justify;
 	font-size: 16px;
-	margin: 1%;
+	margin: 10px;
 }
 #box1{
-	background-color: #964f8e;
+	background-color: #8899dd;
 }
 #box2{
-	background-color: #0067a7;
+	background-color: #00ff55;
 }
 #box3{
 	background-color: #e97600;
 }
-#Chicken,#Beef ,#Sushi{
+/* #Chicken,#Beef ,#Sushi{
 	text-align: center;
-}
+}  */
+
