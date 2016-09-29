@@ -6,8 +6,9 @@ body{
 
 	background-image: url("../img/backery.jpg");
 	background-color: #cccccc;
-	font-family:Arial Black;
+	font-family: 'Salsa', cursive;
 	color: #000000;
+	line-height: 1.5;
 }
 
 
@@ -20,6 +21,7 @@ body{
 	padding: 20px;
 	margin-bottom: 20px;
 	border-radius: 15px; 
+	font-size: 24px;
 }
 #box1{
 	background-color:#e97722 ;
@@ -33,8 +35,13 @@ body{
 a:hover{
 
 	background-color: #ffffff;
+	color: #000000;
 }
 li:hover {
-  background-color: #e97722;
+  background-color: #cccccc;
     
+}
+.navbar {
+	 
+
 }
