@@ -5,8 +5,7 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
-  font-family: 'Kaushan Script', cursive;
-  font-family: 'Shrikhand', cursive;
+  font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -1798,8 +1797,7 @@ pre code {
     width: 58.33333333%;
   }
   .col-sm-6 {
-    width: 49.5%;
-    margin-left: .5%;
+    width: 50%;
   }
   .col-sm-5 {
     width: 41.66666667%;
@@ -1957,16 +1955,13 @@ pre code {
     width: 58.33333333%;
   }
   .col-md-6 {
-    width: 49.5%;
-    margin-left: .5%;
+    width: 50%;
   }
   .col-md-5 {
     width: 41.66666667%;
   }
   .col-md-4 {
     width: 33.33333333%;
-    
-
   }
   .col-md-3 {
     width: 25%;
