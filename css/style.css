@@ -30,5 +30,11 @@ body{
 #box3{
 	background-color: #00ff55;
 }
+a:hover{
 
-
+	background-color: #ffffff;
+}
+li:hover {
+  background-color: #e97722;
+    
+}
